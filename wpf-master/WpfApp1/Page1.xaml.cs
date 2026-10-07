@@ -22,7 +22,7 @@ namespace WpfApp1
     {
         public Page1()
         {
-            //InitializeComponent();
+            InitializeComponent();
 
         }
         private void btnNavigateWithUri_Click(object sender, RoutedEventArgs e)
