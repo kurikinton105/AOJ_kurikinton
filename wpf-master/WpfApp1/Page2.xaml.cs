@@ -22,7 +22,7 @@ namespace WpfApp1
     {
         public Page2()
         {
-            
+            InitializeComponent();
         }
     }
 }
