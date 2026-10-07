@@ -9,7 +9,7 @@ namespace WpfApp1
 {
     static class Program
     {
-        static async Task Login_Program(String user,String password)
+        public static async Task Login_Program(String user,String password)
         {
             
             var obj = new API();
